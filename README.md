@@ -5,6 +5,9 @@
 # About:
 A mini Movie detail app where one can look for new movies description along with the ratings.
 
-## Authors
+## Demo:
+- Visit Link - https://movie-app-rishabhanand02-gmailcom.vercel.app/index.html
+
+## Author:
 
 - Rishabh Anand -  https://portfolio-rishabhanand02-gmailcom.vercel.app/
