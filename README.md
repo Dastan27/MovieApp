@@ -5,6 +5,12 @@
 # About:
 A mini Movie detail app where one can look for new movies description along with the ratings.
 
+## *Technology Stack Used:-* <br />
+In this project I have used the following tech stack: <br />
+- JavaScript
+- HTML
+- CSS
+
 ## Demo:
 - Visit Link - https://movie-app-rishabhanand02-gmailcom.vercel.app/index.html
 
